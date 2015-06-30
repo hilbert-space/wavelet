@@ -1,0 +1,8 @@
+[package]
+name = "wavelet"
+version = "0.0.1"
+authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/hilbert-space/wavelet"
+homepage = "https://github.com/hilbert-space/wavelet"
+description = "Wavelet."
